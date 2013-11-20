@@ -1,0 +1,25 @@
+{
+  "name": "cli-wizard",
+  "version": "0.1.1",
+  "description": "Command line wizard library for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "cli-table": "git://github.com/LearnBoost/cli-table.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vinnovera/cli-wizard.git"
+  },
+  "keywords": [
+    "cli",
+    "wizard",
+    "menu"
+  ],
+  "author": "Jakob Öhman <jakob@vinnovera.se> (http://vinnovera.se/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Vinnovera/cli-wizard/issues"
+  },
+  "homepage": "https://github.com/Vinnovera/cli-wizard"
+}
