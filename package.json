@@ -1,10 +1,10 @@
 {
   "name": "cli-wizard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Command line wizard library for node.js",
   "main": "index.js",
   "dependencies": {
-    "cli-table": "git://github.com/LearnBoost/cli-table.git"
+    "cli-table": "https://github.com/LearnBoost/cli-table/archive/master.tar.gz"
   },
   "devDependencies": {},
   "repository": {
